@@ -1,0 +1,33 @@
+
+/* src/components/employee/employee-lists/employee-lists.css */
+#employeelists {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+#employeelists td, #employeelists th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#employeelists tr:nth-child(even){background-color: #f2f2f2;}
+
+#employeelists tr:hover {background-color: #ddd;}
+
+#employeelists th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:dodgerblue;
+  color: white;
+}
+
+  .center {
+    justify-content: center;
+    display: flex;
+  }
+
+  #mainTable{
+    width: 100%;
+  }
