@@ -8,7 +8,7 @@ A simple CRUD Web application built with ReactJS.
 ## Installation
 Clone this repository
 
-<code>git clone https://github.com/venuthomas/AngularFileStructure.git</code>
+<code>git clone https://github.com/venuthomas/CRUDApplicationMongoDBExpressReactNode.git</code>
 
 Open each folder in a different Visual Studio Code and run the code below in Terminal
 
